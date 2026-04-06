@@ -1,7 +1,7 @@
 <html lang="ko">
 <head>
   <meta charset="UTF-8">
-  <title>당뇨 시뮬레이터</title>
+  <title>20313 우승연 생명과학 수행1</title>
   <link rel="stylesheet" href="style.css">
   
   
